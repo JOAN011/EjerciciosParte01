@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/xst"
+elaborate
+-ifn latch_Concurrente.prj
+-ifmt mixed

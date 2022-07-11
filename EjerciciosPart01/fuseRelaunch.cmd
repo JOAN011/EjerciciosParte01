@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente_isim_beh.exe" -prj "C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente_beh.prj" "work.latch_Concurrente" 

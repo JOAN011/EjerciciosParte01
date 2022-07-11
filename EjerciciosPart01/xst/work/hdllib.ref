@@ -1,0 +1,10 @@
+EN contador_cargap NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/Contador_CargaP.vhd sub00/vhpl05 1657562915
+EN flip_signal NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/Flip_Signal.vhd sub00/vhpl04 1657547821
+EN contador_reset_load NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/Contador_reset_load.vhd sub00/vhpl07 1657563878
+AR latch_process behavioral C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Process.vhd sub00/vhpl03 1657563898
+EN megafunciones_generic NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/megafunciones_Generic.vhd sub00/vhpl06 1657563877
+AR latch_concurrente behavioral C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente.vhd sub00/vhpl01 1657545100
+EN latch_concurrente NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente.vhd sub00/vhpl00 1657545099
+EN maquinaestado NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/MaquinaEstado.vhd sub00/vhpl08 1657567880
+EN latch_process NULL C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Process.vhd sub00/vhpl02 1657563897
+AR maquinaestado behavioral C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/MaquinaEstado.vhd sub00/vhpl09 1657567881

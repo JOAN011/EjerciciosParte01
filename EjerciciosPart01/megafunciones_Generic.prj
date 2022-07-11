@@ -1,0 +1,3 @@
+vhdl work "Contador_CargaP.vhd"
+vhdl work "Contador_reset_load.vhd"
+vhdl work "megafunciones_Generic.vhd"

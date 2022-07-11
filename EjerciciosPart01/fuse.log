@@ -1,0 +1,16 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente_isim_beh.exe -prj C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente_beh.prj work.latch_Concurrente 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity latch_concurrente
+Time Resolution for simulation is 1ps.
+Compiled 3 VHDL Units
+Built simulation executable C:/Users/Joan/Desktop/LeccionU2/EjerciciosPart01/latch_Concurrente_isim_beh.exe
+Fuse Memory Usage: 27264 KB
+Fuse CPU Usage: 374 ms
